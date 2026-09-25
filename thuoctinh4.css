@@ -5,6 +5,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    border-radius: 8px;
 }
 .odau2{
     background-color: #E2E2E2;
@@ -13,6 +14,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    border-radius: 8px;
 }
 .odau3{
     background-color: #E2E2E2;
@@ -21,6 +23,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    border-radius: 8px;
 }
 b{
     line-height: 100%;
