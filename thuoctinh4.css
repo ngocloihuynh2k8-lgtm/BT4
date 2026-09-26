@@ -100,7 +100,7 @@ b{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin:80px 383px 40px;
+    margin:80px auto 40px;
 }
 .tieude{
     width: 45px;
