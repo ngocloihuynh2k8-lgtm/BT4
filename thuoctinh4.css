@@ -170,3 +170,9 @@ b{
     height: 25px;
     font-family: 'Be Vietnam Pro';
 }
+.khung{
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: center; 
+    gap:30px
+}
